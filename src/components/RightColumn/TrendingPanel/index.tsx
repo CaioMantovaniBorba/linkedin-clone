@@ -8,49 +8,49 @@ const TrendingPanel: React.FC = () => {
   return (
     <Container>
       <Panel>
-        <span className="title">Assuntos mais discutidos</span>
+        <span className='title'>Assuntos mais discutidos</span>
 
         <ul>
           <li>
-            <span className="bullet" />
-            <span className="news">
-              <span className="head">Bootcamp da Rocketseat</span>
-              <span className="subtext">há 1 d • 316 leitores</span>
+            <span className='bullet' />
+            <span className='news'>
+              <span className='head'>Bootcamp da Rocketseat</span>
+              <span className='subtext'>há 1 d • 200 leitores</span>
             </span>
           </li>
           <li>
-            <span className="bullet" />
-            <span className="news">
-              <span className="head">Bootcamp da Rocketseat</span>
-              <span className="subtext">há 1 d • 316 leitores</span>
+            <span className='bullet' />
+            <span className='news'>
+              <span className='head'>Bootcamp da Rocketseat</span>
+              <span className='subtext'>há 1 d • 200 leitores</span>
             </span>
           </li>
           <li>
-            <span className="bullet" />
-            <span className="news">
-              <span className="head">Bootcamp da Rocketseat</span>
-              <span className="subtext">há 1 d • 316 leitores</span>
+            <span className='bullet' />
+            <span className='news'>
+              <span className='head'>Bootcamp da Rocketseat</span>
+              <span className='subtext'>há 1 d • 200 leitores</span>
             </span>
           </li>
           <li>
-            <span className="bullet" />
-            <span className="news">
-              <span className="head">Bootcamp da Rocketseat</span>
-              <span className="subtext">há 1 d • 316 leitores</span>
+            <span className='bullet' />
+            <span className='news'>
+              <span className='head'>Bootcamp da Rocketseat</span>
+              <span className='subtext'>há 1 d • 200 leitores</span>
             </span>
           </li>
           <li>
-            <span className="bullet" />
-            <span className="news">
-              <span className="head">Bootcamp da Rocketseat</span>
-              <span className="subtext">há 1 d • 316 leitores</span>
+            <span className='bullet' />
+            <span className='news'>
+              <span className='head'>Bootcamp da Rocketseat</span>
+              <span className='subtext'>há 1 d • 200 leitores</span>
             </span>
           </li>
           <li>
-            <span className="bullet" />
-            <span className="news">
-              <span className="head">Bootcamp da Rocketseat</span>
-              <span className="subtext">há 1 d • 316 leitores</span>
+            <span className='bullet' />
+            <span className='news'>
+              <span className='head'>Bootcamp da Rocketseat</span>
+              <span className='subtext'>há 1 d • 200 leitores</span>
             </span>
           </li>
         </ul>
